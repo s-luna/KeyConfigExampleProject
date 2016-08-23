@@ -243,6 +243,26 @@ namespace KeyConfig
         }
 
         /// <summary>
+        /// キーコンフィグデータ(keyConfig.inputKey)を基にkeyDataに設定された値を返します。
+        /// </summary>
+        /// <param name="keyData"></param>
+        /// <returns></returns>
+        public static KeyCode GetKeyCode(KeyData keyData)
+        {
+            return keyConfigData.inputKey[(int)keyData];
+        }
+
+        /// <summary>
+        /// キーコンフィグデータ(keyConfig.inputButton)を基にkeyDataに設定された値を返します。
+        /// </summary>
+        /// <param name="keyData"></param>
+        /// <returns></returns>
+        public static KeyCode GetButtonCode(KeyData keyData)
+        {
+            return keyConfigData.inputButton[(int)keyData];
+        }
+
+        /// <summary>
         /// 現在押されているKeyCodeを返します。
         /// </summary>
         /// <returns></returns>

@@ -48,5 +48,7 @@ CnfigInput.cs
 	ResetKey	InputDataに基づいてキーコンフィグデータを初期化します。
 	SetKeyCode	キーコンフィグデータを更新します。キーボード用を想定。
 	SetButtonCode	キーコンフィグデータを更新します。ゲームパッド用を想定。
+	GetKeyCode	キーコンフィグデータを基にkeyDataに設定された値を返します。
+	GetButtonCode	キーコンフィグデータを基にkeyDataに設定された値を返します。
 	InputKeyCode	現在押されているKeyCodeを返します。
 

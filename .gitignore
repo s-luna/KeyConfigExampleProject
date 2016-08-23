@@ -1,1 +1,10 @@
 Library/
+Assets/ExampleScene.unity.meta
+Assets/KeyConfig.meta
+Assets/KeyConfig/Prefab.meta
+Assets/KeyConfig/Script.meta
+Assets/KeyConfig/Script/ConfigInput.cs.meta
+Assets/KeyConfig/Script/InputData.cs.meta
+Assets/KeyConfig/Script/InputTest.cs.meta
+KeyConfigExampleProject.CSharp.csproj
+KeyConfigExampleProject.sln
