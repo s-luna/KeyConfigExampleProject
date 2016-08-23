@@ -1,4 +1,4 @@
-﻿namespace ConfigInput
+﻿namespace KeyConfig
 {
 
     public enum KeyData

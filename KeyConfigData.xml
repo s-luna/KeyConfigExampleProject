@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<KeyConfigData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <inputKey>
+    <KeyCode>None</KeyCode>
+    <KeyCode>M</KeyCode>
+    <KeyCode>N</KeyCode>
+    <KeyCode>H</KeyCode>
+    <KeyCode>B</KeyCode>
+    <KeyCode>G</KeyCode>
+    <KeyCode>T</KeyCode>
+    <KeyCode>J</KeyCode>
+    <KeyCode>U</KeyCode>
+    <KeyCode>Space</KeyCode>
+    <KeyCode>LeftAlt</KeyCode>
+    <KeyCode>Comma</KeyCode>
+  </inputKey>
+  <inputButton>
+    <KeyCode>None</KeyCode>
+    <KeyCode>Joystick1Button1</KeyCode>
+    <KeyCode>Joystick1Button2</KeyCode>
+    <KeyCode>Joystick1Button0</KeyCode>
+    <KeyCode>Joystick1Button3</KeyCode>
+    <KeyCode>Joystick1Button6</KeyCode>
+    <KeyCode>Joystick1Button4</KeyCode>
+    <KeyCode>Joystick1Button7</KeyCode>
+    <KeyCode>Joystick1Button5</KeyCode>
+    <KeyCode>Joystick1Button8</KeyCode>
+    <KeyCode>Joystick1Button9</KeyCode>
+    <KeyCode>Joystick1Button11</KeyCode>
+  </inputButton>
+</KeyConfigData>
